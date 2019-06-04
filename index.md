@@ -292,10 +292,11 @@ layout: default
           <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
             <h2>Subscribe</h2>
             <p class="mb-5">Find us on your favourite podcast player, or add our RSS feed directly: <a href="https://learningleadership.net/feed/podcast/">https://learningleadership.net/feed/podcast</a></p>
+            <p><a href="https://open.spotify.com/show/42ggp9JTKPofpM6g3NsBG0"><img src="{{site.url}}/images/spotify-podcast-badge-wht-grn.png" alt="listen on Spotify"></a></p>
             <!--
             <form action="#" method="post" class="site-block-subscribe">
                 <div class="input-group mb-3">
-                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
+                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">}
                   <div class="input-group-append">
                     <button class="btn btn-primary" type="button" id="button-addon3">Send</button>
                   </div>
