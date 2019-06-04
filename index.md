@@ -293,6 +293,7 @@ layout: default
             <h2>Subscribe</h2>
             <p class="mb-5">Find us on your favourite podcast player, or add our RSS feed directly: <a href="https://learningleadership.net/feed/podcast/">https://learningleadership.net/feed/podcast</a></p>
             <p><a href="https://open.spotify.com/show/42ggp9JTKPofpM6g3NsBG0"><img src="{{site.url}}/images/spotify-podcast-badge-wht-grn.png" alt="listen on Spotify"></a></p>
+            <p><a href="https://www.stitcher.com/s?fid=419469&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Dark_BG.png" width="279" height="84" alt="Listen to Stitcher"></a></p>
             <!--
             <form action="#" method="post" class="site-block-subscribe">
                 <div class="input-group mb-3">
