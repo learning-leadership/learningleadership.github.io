@@ -69,7 +69,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-    <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
+    <itunes:duration>{{ ep.duration }}</itunes:duration>
   </item>
 {% endfor %}
 </channel>
