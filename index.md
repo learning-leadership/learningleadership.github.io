@@ -283,15 +283,16 @@ layout: default
         </div>
       </div>
     </section>
+-->
 
-
-    <div class="site-blocks-cover overlay inner-page-cover" style="background-image: url({{site.url}}/images/hero_bg_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+    <div class="site-section bg-light block-13">
       <div class="container">
         <div class="row align-items-center justify-content-center text-center">
 
           <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
             <h2>Subscribe</h2>
-            <p class="mb-5">Sign up to our email list for even more useful content on Learning Leadership.</p>
+            <p class="mb-5">Find us on your favourite podcast player, or add our RSS feed directly: <a href="https://learningleadership.net/feed/podcast/">https://learningleadership.net/feed/podcast</a></p>
+            <!--
             <form action="#" method="post" class="site-block-subscribe">
                 <div class="input-group mb-3">
                   <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
@@ -300,8 +301,8 @@ layout: default
                   </div>
                 </div>
               </form>
+              -->
           </div>
         </div>
       </div>
     </div>
-    -->
